@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Machine learning,AI or other relative things.s**
+- 💬 Ask me about **Machine learning,AI or other relative things**
 
 - 📫 How to reach me **suhailpk24@gmail.com**
 
