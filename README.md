@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhail P K</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/suhailpk7" target="blank"><img src="https://img.shields.io/twitter/follow/suhailpk7?logo=twitter&style=for-the-badge" alt="suhailpk7" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Web Development in Django & Data Science**
 
-- 💬 Ask me about **Machine learning,AI etc**
+- 💬 Ask me about **Python, Django, Machine learning, AI etc**
 
 - 📫 How to reach me **suhailpk24@gmail.com**
 
